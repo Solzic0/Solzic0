@@ -1,6 +1,6 @@
 ## Hi 👋, I'm The Black
 
-### I am a Turkish🇹🇷 developer.
+### 🇹🇷 I'm a Turkish developer.
 
 - 🔭 I'm currently working on **a native operating system project.**
 
