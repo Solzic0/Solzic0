@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm The Black</h1>
-<h3 align="center">🇹🇷 I'm a Turkish developer.</h3>
+<p align="center">Hi 👋, I'm The Black</p>
+<p align="center">🇹🇷 I'm a Turkish developer.</p>
+
+---
 
 - 🔭 I'm currently working on **a native operating system project.**
 
