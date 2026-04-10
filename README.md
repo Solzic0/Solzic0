@@ -1,5 +1,5 @@
-<p align="center">Hi 👋, I'm The Black</p>
-<p align="center">🇹🇷 I'm a Turkish developer.</p>
+<h1 align="center">Hi 👋, I'm The Black
+🇹🇷 I'm a Turkish developer.</h1>
 
 ---
 
