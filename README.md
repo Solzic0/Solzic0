@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm The Black
-🇹🇷 I'm a Turkish developer.</h1>
-
----
+<h1 align="center">Hi 👋, I'm The Black</h1>
 
 - 🔭 I'm currently working on **a native operating system project.**
 
