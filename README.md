@@ -7,9 +7,10 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="TheBlackLT" width="35" /></a>
-  <a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="eVeJYtWbzY" width="35" /></a>
-  <a href="https://x.com/Lufinity" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Lufinity" width="35" /></a>
+  <a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Github - TheBlackLT" width="35" /></a>
+  <a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord - Lufinity" width="35" /></a>
+  <a href="https://x.com/Lufinity" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - Lufinity" width="35" /></a>
+  <a href="https://www.youtube.com/@lufinity" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="YouTube - Lufinity" width="35" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
