@@ -18,11 +18,11 @@
 </p>
 <h3 align="center">Code Editors:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,eclipse,idea,pycharm" align="center" width="350" /><br />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,eclipse,idea,pycharm" align="center" width="210" /><br />
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gradle,maven,docker,git" align="center" width="300" /><br />
+  <img src="https://skillicons.dev/icons?i=gradle,maven,docker,git" align="center" width="140" /><br />
 </p>
 <h3 align="center">Languages:</h3>
 <p align="center">
