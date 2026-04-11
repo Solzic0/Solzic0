@@ -14,7 +14,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p>[![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi,debian)](#)</p>
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi,debian)](#)<br>
 [![My Skills](https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git)](#)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](#)
