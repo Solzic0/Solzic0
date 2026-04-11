@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm The Black</h1>
+<h1 align="center">Hi, I'm Solzic0</h1>
 
 <p align="center">
   I'm currently working on a native operating system project.<br /><br />
