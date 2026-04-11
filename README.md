@@ -12,15 +12,24 @@
   <a href="https://x.com/Lufinity" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - Lufinity" width="35" /></a>
   <a href="https://www.youtube.com/@lufinity" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/2f549df7/img/favicon_144x144.png" alt="YouTube - Lufinity" width="35" /></a>
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Operating System:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu,visualstudio,vscode,vscodium,eclipse,idea" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=pycharm,gradle,docker,git,mongodb,mysql,sqlite,postgresql,c,cpp" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=cs,perl,java,py,pytorch,tensorflow,opencv,qt,django,flask" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,nginx,express,php,laravel,wordpress,symfony,jquery,nodejs" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,react,vue,vite,vuetify,ts,discordjs,html" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=css,js,bootstrap,tailwind" align="center" width="135" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,arch" align="center" width="350" /><br />
+</p>
+<h3 align="center">Code Editors:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,eclipse,idea,pycharm" align="center" width="350" /><br />
+</p>
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gradle,docker,git" align="center" width="350" /><br />
+</p>
+<h3 align="center">Languages:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,c,cpp,cs,perl,java,py" align="center" width="350" /><br />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,qt,django,flask,nextjs,nuxtjs,nginx,express" align="center" width="350" /><br />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery,nodejs,npm,yarn,pnpm,react" align="center" width="350" /><br />
+  <img src="https://skillicons.dev/icons?i=vue,vite,vuetify,ts,discordjs,html,css,js,bootstrap,tailwind" align="center" width="350" /><br />
 </p>
 
 <h1 align="center"></h1>
