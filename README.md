@@ -13,8 +13,8 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi,debian)](#)<br>
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" />
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu)](#)<br>
 [![My Skills](https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git)](#)<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)<br>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](#)<br>
