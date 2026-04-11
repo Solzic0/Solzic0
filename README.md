@@ -13,14 +13,14 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" />
-<img src="https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,js" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,perl,java" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=react,vue,vuetify" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt" align="center" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,discordjs" align="center" /><br>
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" />
+<img src="https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git" align="center" />
+<img src="https://skillicons.dev/icons?i=html,css,js" align="center" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" align="center" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" align="center" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,perl,java" align="center" />
+<img src="https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express" align="center" />
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery" align="center" />
+<img src="https://skillicons.dev/icons?i=react,vue,vuetify" align="center" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt" align="center" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,discordjs" align="center" /></p>
