@@ -14,4 +14,14 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,idea,mysql,wordpress,c,cpp,cs,sqlite,django,bootstrap,ts,nodejs,symfony,express,docker,flask,git,java,tensorflow,laravel,linux,arch,nextjs,nuxtjs,nginx,debian,opencv,perl,ps,php,py,pytorch,qt,react,scikitlearn,tailwind,vue,vuetify,redis,raspberrypi,vscodium,jquery)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi,debian)](#)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](#)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,perl,java)](#)
+[![My Skills](https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express)](#)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,vuetify)](#)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt)](#)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts)](#)
