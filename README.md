@@ -15,13 +15,13 @@
 <h3 align="center">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi,debian)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git)](#)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](#)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)](#)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,perl,java)](#)
-[![My Skills](https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express)](#)
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery)](#)
-[![My Skills](https://skillicons.dev/icons?i=react,vue,vuetify)](#)
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt)](#)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts)](#)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,perl,java)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=react,vue,vuetify)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts)](#)<br>
