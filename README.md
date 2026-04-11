@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=cs,perl,java,py,pytorch,tensorflow,opencv,qt,django,flask" align="center" width="350" /><br />
   <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,nginx,express,php,laravel,wordpress,symfony,jquery,nodejs" align="center" width="350" /><br />
   <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,react,vue,vite,vuetify,ts,discordjs,html" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=css,js,bootstrap,tailwind" align="center" width="350" /><br />
+  <img src="https://skillicons.dev/icons?i=css,js,bootstrap,tailwind" align="center" width="200" /><br />
 </p>
 
 <h1 align="center"></h1>
