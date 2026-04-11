@@ -14,7 +14,7 @@
 </p>
 <h3 align="center">Operating System:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch" align="center" width="60" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,arch" align="center" width="70" /><br />
 </p>
 <h3 align="center">Code Editors:</h3>
 <p align="center">
