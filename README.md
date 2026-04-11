@@ -13,15 +13,14 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" />
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,perl,java)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=react,vue,vuetify)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts)](#)<br>
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,perl,java" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=react,vue,vuetify" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,discordjs" align="center" /><br>
