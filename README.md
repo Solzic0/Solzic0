@@ -5,7 +5,7 @@
   I'm currently learning C, C++ and Perl...<br /><br />
   I'm looking to collaborate on open source project<br /><br />
 </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Social Links:</h3>
 <p align="center">
   <a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Github - TheBlackLT" width="35" /></a>
   <a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord - Lufinity" width="35" /></a>
