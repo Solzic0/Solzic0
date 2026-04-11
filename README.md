@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" /><br>
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" />
 <img src="https://skillicons.dev/icons?i=idea,vscodium,eclipse,ps,docker,git" align="center" /><br>
 <img src="https://skillicons.dev/icons?i=html,css,js" align="center" /><br>
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" align="center" /><br>
