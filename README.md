@@ -15,7 +15,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu,visualstudio,vscode,vscodium,eclipse,idea" align="center" width="20" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu,visualstudio,vscode,vscodium,eclipse,idea" align="center" width="120" /><br />
   <img src="https://skillicons.dev/icons?i=pycharm,gradle,docker,git,mongodb,mysql,sqlite,postgresql,c,cpp" align="center" /><br />
   <img src="https://skillicons.dev/icons?i=cs,perl,java,py,pytorch,tensorflow,opencv,qt,django,flask" align="center" /><br />
   <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,nginx,express,php,laravel,wordpress,symfony,jquery,nodejs" align="center" /><br />
