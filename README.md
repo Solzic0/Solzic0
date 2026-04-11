@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm The Black</h1>
 
-<p align="center">I'm currently working on a native operating system project.</p>
-<p align="center">I'm currently learning C, C++ and Perl</p>
-<p align="center">I'm looking to collaborate on open source project</p>
+<p align="center">
+  I'm currently working on a native operating system project.<br />
+  I'm currently learning C, C++ and Perl...<br />
+  I'm looking to collaborate on open source project<br />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 
