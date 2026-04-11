@@ -8,14 +8,14 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TheBlackLT" height="30" width="40" /></a>
-<a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eVeJYtWbzY" height="30" width="40" /></a>
+<a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="TheBlackLT" height="30" width="40" /></a>
+<a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="eVeJYtWbzY" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscodium,eclipse,idea,pycharm" align="center" /><br />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,eclipse,idea,pycharm" align="center" /><br />
   <img src="https://skillicons.dev/icons?i=gradle,docker,git" align="center" /><br />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql" align="center" /><br />
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,perl,java" align="center" /><br />
