@@ -14,7 +14,7 @@
 </p>
 <h3 align="center">Operating System:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch" align="center" width="350" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,arch" align="center" width="60" /><br />
 </p>
 <h3 align="center">Code Editors:</h3>
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gradle,docker,git" align="center" width="350" /><br />
+  <img src="https://skillicons.dev/icons?i=gradle,maven,docker,git" align="center" width="300" /><br />
 </p>
 <h3 align="center">Languages:</h3>
 <p align="center">
