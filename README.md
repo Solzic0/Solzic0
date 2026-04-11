@@ -15,18 +15,12 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,eclipse,idea,pycharm" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=gradle,docker,git" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,perl,java" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=django,nextjs,nuxtjs,nginx,flask,express" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,pnpm" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=react,vue,vite,vuetify,ts,discordjs" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js" align="center" /><br />
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" align="center" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,raspberrypi,ubuntu,visualstudio,vscode,vscodium,eclipse,idea" align="center" /><br />
+  <img src="https://skillicons.dev/icons?i=pycharm,gradle,docker,git,mongodb,mysql,sqlite,postgresql,c,cpp" align="center" /><br />
+  <img src="https://skillicons.dev/icons?i=cs,perl,java,py,pytorch,tensorflow,opencv,qt,django,flask" align="center" /><br />
+  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,nginx,express,php,laravel,wordpress,symfony,jquery,nodejs" align="center" /><br />
+  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,react,vue,vite,vuetify,ts,discordjs,html" align="center" /><br />
+  <img src="https://skillicons.dev/icons?i=css,js,bootstrap,tailwind" align="center" /><br />
 </p>
 
 <h1 align="center"></h1>
