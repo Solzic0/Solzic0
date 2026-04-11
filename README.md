@@ -14,4 +14,4 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,idea,mysql,wordpress,c,cpp,cs,sqlite,django,bootstrap,ts,nodejs,symfony,express,docker,flask,git,java,tensorflow,laravel,linux,arch,nextjs,nuxtjs,nginx,debian,opencv,perl,ps,php,py,pytorch,qt,react,scikitlearn,tailwind,vue,vuetify,redis,raspberrypi,vscodium,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,idea,mysql,wordpress,c,cpp,cs,sqlite,django,bootstrap,ts,nodejs,symfony,express,docker,flask,git,java,tensorflow,laravel,linux,arch,nextjs,nuxtjs,nginx,debian,opencv,perl,ps,php,py,pytorch,qt,react,scikitlearn,tailwind,vue,vuetify,redis,raspberrypi,vscodium,jquery)](#)
