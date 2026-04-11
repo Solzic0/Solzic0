@@ -24,3 +24,5 @@
 <img src="https://skillicons.dev/icons?i=react,vue,vuetify" align="center" /><br />
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,qt" align="center" /><br />
 <img src="https://skillicons.dev/icons?i=nodejs,ts,discordjs" align="center" /></p>
+
+<h1 align="center"></h1>
