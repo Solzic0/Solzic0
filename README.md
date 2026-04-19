@@ -1,10 +1,4 @@
 <h1 align="center">Hi, I'm Solzic0</h1>
-
-<p align="center">
-  I'm currently working on a native operating system project.<br /><br />
-  I'm currently learning C, C++ and Perl...<br /><br />
-  I'm looking to collaborate on open source project<br /><br />
-</p>
 <h3 align="center">Social Links:</h3>
 <p align="center">
   <a href="https://github.com/Solzic0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Github - Solzic0" width="45" /></a>
