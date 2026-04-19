@@ -28,7 +28,7 @@
 </p>
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,c,cpp,cs,perl,java,py" align="center" width="490" /><br />
+  <img src="c,cpp,cs,perl,java,py" align="center" width="245" /><br />
 </p>
 
 <h1 align="center"></h1>
