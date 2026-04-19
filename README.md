@@ -7,10 +7,10 @@
 </p>
 <h3 align="center">Social Links:</h3>
 <p align="center">
-  <a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Github - TheBlackLT" width="45" /></a>
-  <a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord - Lufinity" width="45" /></a>
-  <a href="https://x.com/Lufinity" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - Lufinity" width="45" /></a>
-  <a href="https://www.youtube.com/@lufinity" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/2f549df7/img/favicon_144x144.png" alt="YouTube - Lufinity" width="45" /></a>
+  <a href="https://github.com/Solzic0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Github - Solzic0" width="45" /></a>
+  <a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord - RactBots Support" width="45" /></a>
+  <a href="https://x.com/TeknoAnka" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - TeknoAnka" width="45" /></a>
+  <a href="https://www.youtube.com/@TeknoAnkaOfficial" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/2f549df7/img/favicon_144x144.png" alt="YouTube - TeknoAnka" width="45" /></a>
 </p>
 <h3 align="center">Operating System:</h3>
 <p align="center">
