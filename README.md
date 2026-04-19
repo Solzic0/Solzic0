@@ -7,16 +7,16 @@
 </p>
 <h3 align="center">Social Links:</h3>
 <p align="center">
-  <a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Github - TheBlackLT" width="35" /></a>
-  <a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord - Lufinity" width="35" /></a>
-  <a href="https://x.com/Lufinity" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - Lufinity" width="35" /></a>
-  <a href="https://www.youtube.com/@lufinity" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/2f549df7/img/favicon_144x144.png" alt="YouTube - Lufinity" width="35" /></a>
+  <a href="https://github.com/TheBlackLT" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Github - TheBlackLT" width="45" /></a>
+  <a href="https://discord.gg/eVeJYtWbzY" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord - Lufinity" width="45" /></a>
+  <a href="https://x.com/Lufinity" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - Lufinity" width="45" /></a>
+  <a href="https://www.youtube.com/@lufinity" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/2f549df7/img/favicon_144x144.png" alt="YouTube - Lufinity" width="45" /></a>
 </p>
 <h3 align="center">Operating System:</h3>
 <p align="center">
-  <img src="https://i.imgur.com/NxkMSyU.png" align="center" width="45" />
-  <img src="https://i.imgur.com/iN0oUqE.png" align="center" width="45" />
-  <img src="https://i.imgur.com/coxJfuU.png" align="center" width="45" /><br />
+  <img src="https://i.imgur.com/NxkMSyU.png" align="center" width="55" />
+  <img src="https://i.imgur.com/iN0oUqE.png" align="center" width="55" />
+  <img src="https://i.imgur.com/coxJfuU.png" align="center" width="55" /><br />
 </p>
 <h3 align="center">Code Editors:</h3>
 <p align="center">
