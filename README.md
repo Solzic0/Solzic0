@@ -20,7 +20,12 @@
 </p>
 <h3 align="center">Code Editors:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vscodium,eclipse,idea,pycharm" align="center" width="360" /><br />
+  <img src="https://skillicons.dev/icons?i=visualstudio" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscodium" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=eclipse" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=idea" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=pycharm" align="center" width="45" /><br />
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
