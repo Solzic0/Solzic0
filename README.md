@@ -14,7 +14,9 @@
 </p>
 <h3 align="center">Operating System:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch" align="center" width="70" /> <img src="https://i.imgur.com/GMuqnL2.png" align="center" width="35" /><br />
+  <img src="https://i.imgur.com/NxkMSyU.png" align="center" width="35" />
+  <img src="https://i.imgur.com/iN0oUqE.png" align="center" width="35" />
+  <img src="https://i.imgur.com/coxJfuU.png" align="center" width="35" /><br />
 </p>
 <h3 align="center">Code Editors:</h3>
 <p align="center">
