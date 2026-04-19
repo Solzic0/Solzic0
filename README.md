@@ -6,7 +6,6 @@
   <a href="https://x.com/TeknoAnka" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter - TeknoAnka" width="45" /></a>
   <a href="https://www.youtube.com/@TeknoAnkaOfficial" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/2f549df7/img/favicon_144x144.png" alt="YouTube - TeknoAnka" width="45" /></a>
 </p>
-<img src="https://i.imgur.com/JQa9Qaz.png" align="center" width="45" />
-<img src="https://skillicons.dev/icons?i=linux,arch,vscodium,pycharm,eclipse,docker,git,c,cs,cpp,py,qt,perl,java"/>
+<img src="https://i.imgur.com/GcVv1s3.png"/>
 
 <h1 align="center"></h1>
