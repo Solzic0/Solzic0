@@ -29,11 +29,19 @@
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gradle,maven,docker,git" align="center" width="270" /><br />
+  <img src="https://skillicons.dev/icons?i=gradle" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=maven" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=docker" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=git" align="center" width="45" /><br />
 </p>
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,perl,java,py" align="center" width="315" /><br />
+  <img src="https://skillicons.dev/icons?i=c" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=cs" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=perl" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=java" align="center" width="45" />
+  <img src="https://skillicons.dev/icons?i=py" align="center" width="45" /><br />
 </p>
 
 <h1 align="center"></h1>
