@@ -29,9 +29,6 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,c,cpp,cs,perl,java,py" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,qt,django,flask,nextjs,nuxtjs,nginx,express" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony,jquery,nodejs,npm,yarn,pnpm,react" align="center" width="350" /><br />
-  <img src="https://skillicons.dev/icons?i=vue,vite,vuetify,ts,discordjs,html,css,js,bootstrap,tailwind" align="center" width="350" /><br />
 </p>
 
 <h1 align="center"></h1>
